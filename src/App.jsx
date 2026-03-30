@@ -16,7 +16,7 @@ function Layout({ children, showTicker = true }) {
     </>
   )
 }
-// add to vercel
+
 export default function App() {
   return (
     <BrowserRouter>
